@@ -141,7 +141,7 @@ body {
   padding-top:-80%;
   margin-top:-80%;
   left:30%;
-  margin-bottom:5.2%;
+  margin-bottom:6.5%;
 }
 
 .contain{
